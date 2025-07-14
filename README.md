@@ -17,15 +17,15 @@
 📝 Alguns projetos que você encontra aqui:
 - Extração de dados de PDF para CSV com Python;
 - Site institucional com React e Bootstrap;
-- API REST com Flask seguindo padrão MVC.
-- Site feito com react para loja.
-- Autenticação feita em Node.Js(Express).
+- API REST com Flask seguindo padrão MVC;
+- Site feito com react para loja;
+- Autenticação feita em Node.Js(Express);
   
 
 📫 **Entre em contato comigo:**
 - E-mail: marcelo0204martins@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/marcelo-augusto-079145287/)
-- GitHub: (https://github.com/marceloaugustorm)
+- LinkedIn: https://www.linkedin.com/in/marcelo-augusto-079145287/
+- GitHub: https://github.com/marceloaugustorm
 
 ---
 
