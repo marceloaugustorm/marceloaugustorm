@@ -10,7 +10,7 @@
 - **Git e GitHub**: versionamento e organização de projetos.
 
 🚀 Estou sempre buscando aprender coisas novas e atualmente estou focado em:
-- **Back-end com Python (Flask e FastAPI)**;
+- **Back-end com Python (Flask)**;
 - **Front-end com React**;
 - **Práticas DevOps**: CI/CD, Docker, GitHub Actions.
 
@@ -18,11 +18,14 @@
 - Extração de dados de PDF para CSV com Python;
 - Site institucional com React e Bootstrap;
 - API REST com Flask seguindo padrão MVC.
+- Site feito com react para loja.
+- Autenticação feita em Node.Js(Express).
+  
 
 📫 **Entre em contato comigo:**
 - E-mail: seu-email@gmail.com
-- LinkedIn: [seu-linkedin](https://www.linkedin.com/in/seu-usuario/)
-- GitHub: [seu-github](https://github.com/seu-usuario)
+- LinkedIn: ([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/marcelo-augusto-079145287/))
+- GitHub: [[seu-github](https://github.com/seu-usuario](https://github.com/marceloaugustorm)
 
 ---
 
