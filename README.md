@@ -23,9 +23,9 @@
   
 
 📫 **Entre em contato comigo:**
-- E-mail: seu-email@gmail.com
-- LinkedIn: ([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/marcelo-augusto-079145287/))
-- GitHub: [[seu-github](https://github.com/seu-usuario](https://github.com/marceloaugustorm)
+- E-mail: marcelo0204martins@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/marcelo-augusto-079145287/)
+- GitHub: (https://github.com/marceloaugustorm)
 
 ---
 
