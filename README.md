@@ -11,6 +11,7 @@
 
 🚀 Estou sempre buscando aprender coisas novas e atualmente estou focado em:
 - **Back-end com Python (Flask)**;
+- **Back-end com Javascript (Node.JS)**;
 - **Front-end com React**;
 - **Práticas DevOps**: CI/CD, Docker, GitHub Actions.
 
